@@ -165,5 +165,4 @@ dataset/
 
 .dvc/
 .dvcignore
-dvc.lock
 
