@@ -162,3 +162,8 @@ artifacts/
 artifacts/*
 
 dataset/
+
+.dvc/
+.dvcignore
+dvc.lock
+
