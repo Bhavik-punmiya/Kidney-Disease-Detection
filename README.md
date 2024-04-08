@@ -1,6 +1,12 @@
 # Kidney-Disease-Classification-MLflow-DVC
 
 
+
+https://github.com/Bhavik-punmiya/Kidney-Disease-Detection/assets/118907757/70c29c80-b178-4f68-afa1-48d9421dc121
+
+
+
+
 ## Workflows
 
 1. Update config.yaml
